@@ -3,6 +3,6 @@ Alan Yahir Loaiza Beltran 2-4
 
 | NOMBRE            | GITHUB                     |
 |-------------------|---------------------------|
-| Nombre del compañero 1 | [enlace a github 1]() |
-| Nombre del compañero 2 | [enlace a github 2]() |
-| Nombre del compañero 3 | [enlace a github 3]() |
+| Ernesto | (https://github.com/xadsCas) |
+| Sergio | (https://github.com/SantonioGC) |
+| Crispin | (https://github.com/Krispinz) |
